@@ -15,8 +15,8 @@
     <!-- Poki SDK — loaded unconditionally so the same build serves the site and
          the portal; PlatformBridge no-ops when the SDK is absent. -->
     <script src="https://game-cdn.poki.com/scripts/v2/poki-sdk.js"></script>
-    <script type="module" crossorigin src="./assets/index-iWmTTLjO.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DmWTwfSQ.css">
+    <script type="module" crossorigin src="./assets/index--IxoYKjW.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CZcVTGHB.css">
   </head>
   <body>
     <!-- Instant boot splash: pure HTML/CSS so it paints before the JS bundle
@@ -32,6 +32,24 @@
       <div class="bs-depth" id="bs-depth">0m</div>
     </div>
     <style>
+      /* Fredoka (OFL — license in public/fonts/OFL.txt) — self-hosted because
+         the portals forbid external requests. Declared here, not in the bundled
+         CSS, so ./fonts resolves relative to the PAGE under any deploy subpath. */
+      @font-face {
+        font-family: "Fredoka";
+        src: url("./fonts/fredoka-latin.woff2") format("woff2");
+        font-weight: 300 700;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: "Fredoka";
+        src: url("./fonts/fredoka-latin-ext.woff2") format("woff2");
+        font-weight: 300 700;
+        font-style: normal;
+        font-display: swap;
+        unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
       #boot-splash {
         position: fixed; inset: 0; z-index: 999;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
