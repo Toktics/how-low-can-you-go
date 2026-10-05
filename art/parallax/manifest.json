@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "type": "image",
+      "key": "parallax.topsoil.back.0",
+      "url": "art/parallax/topsoil-soil-loop-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.topsoil.mid.0",
+      "url": "art/parallax/roots-mid-left-v2.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.topsoil.mid.1",
+      "url": "art/parallax/roots-mid-right-v2.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.topsoil.fore.0",
+      "url": "art/parallax/roots-near-left-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.topsoil.fore.1",
+      "url": "art/parallax/roots-near-right-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.topsoil.rock.0",
+      "url": "art/gameplay/topsoil-rock-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.topsoil.gem.0",
+      "url": "art/gameplay/topsoil-gem-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.topsoil.amber.0",
+      "url": "art/gameplay/topsoil-amber-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.topsoil.bat.0",
+      "url": "art/gameplay/topsoil-bat-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.clay.back.0",
+      "url": "art/parallax/clay-back-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.clay.mid.0",
+      "url": "art/parallax/clay-side-panels-draft/clay-mid-left-initial-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.clay.mid.1",
+      "url": "art/parallax/clay-side-panels-draft/clay-mid-right-initial-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.clay.rock.0",
+      "url": "art/gameplay/clay-rock-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.roots-clay.rock.0",
+      "url": "art/gameplay/roots-clay-rock-v3.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.clay.bat.0",
+      "url": "art/gameplay/clay-bat-v2.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.topsoil-clay.back.0",
+      "url": "art/parallax/topsoil-clay-transition-back-v9.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.clay-shale.back.0",
+      "url": "art/parallax/clay-shale-transition-back-v3.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.shale.back.0",
+      "url": "art/parallax/shale-back-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.shale-fossil.back.0",
+      "url": "art/parallax/shale-fossil-transition-back-v3.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.fossil.back.0",
+      "url": "art/parallax/fossil-back-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.fossil.mid.0",
+      "url": "art/parallax/fossil-mid-left-mirror-v2.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.fossil.mid.1",
+      "url": "art/parallax/fossil-mid-right-mirror-v2.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.shale.mid.0",
+      "url": "art/parallax/shale-mid-left-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.shale.mid.1",
+      "url": "art/parallax/shale-mid-right-mirror-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "parallax.shale.fore.0",
+      "url": "art/parallax/shale-fore-left-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.shale.rock.0",
+      "url": "art/gameplay/shale-rock-v1.webp"
+    },
+    {
+      "type": "image",
+      "key": "gameplay.shale.bat.0",
+      "url": "art/gameplay/shale-bat-albino-red-eyes-v1.webp"
+    }
+  ]
+}
